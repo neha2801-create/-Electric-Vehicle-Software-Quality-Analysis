@@ -114,4 +114,11 @@ Analyzing and predicting software failures in Tesla's infotainment system using 
 - Alert system
 - Dashboard implementation
 
----
+<img width="1274" alt="image" src="https://github.com/user-attachments/assets/beb00644-6e23-4c8f-8e39-121282a7390f" />
+<img width="1321" alt="image" src="https://github.com/user-attachments/assets/55fec2e6-26f9-43c0-956f-c0becc74f040" />
+<img width="1328" alt="image" src="https://github.com/user-attachments/assets/2f1e7e42-72e2-4b2c-a129-93f443c52672" />
+<img width="1337" alt="image" src="https://github.com/user-attachments/assets/99c46552-d5c4-4586-8157-87ee0b5cb417" />
+
+
+
+
